@@ -44,30 +44,42 @@
 
 <br>
 
-### 📊 Statistik Kompetitif
+### 📊 Statistik LeetCode
 
 <div align="center">
-
-**LeetCode**
-<br>
-<a href="https://leetcode.com/u/UKl2ZHKA5E/">
-  <img src="https://leetcard.jacoblin.cool/UKl2ZHKA5E?theme=nord&font=baloo" alt="LeetCode Stats" width="500" />
-</a>
-
-<br><br>
-
-**Codeforces**
-<br>
-<a href="https://codeforces.com/profile/MyNameIsKar-Sekar">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=MyNameIsKar-Sekar&theme=nord" alt="Codeforces Stats" width="500" />
-</a>
+  <a href="https://leetcode.com/u/UKl2ZHKA5E/">
+    <img src="https://leetcard.jacoblin.cool/UKl2ZHKA5E?theme=nord&font=baloo" alt="LeetCode Stats" width="500" />
+  </a>
+</div>
 
 <br>
 
-<a href="https://codeforces.com/profile/MyNameIsKar-Sekar">
-  <img src="https://codeforces-readme-stats.vercel.app/api/graph?username=MyNameIsKar-Sekar&theme=nord" alt="Codeforces Graph" width="500" />
-</a>
+### 🏆 Statistik Codeforces
 
+<div align="center">
+  <a href="https://codeforces.com/profile/MyNameIsKar-Sekar">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=MyNameIsKar-Sekar&theme=nord" alt="Codeforces Stats" width="500" />
+  </a>
+</div>
+
+<br>
+
+### 🔥 Heatmap & Aktivitas Codeforces
+
+<div align="center">
+  <a href="https://codeforces.com/profile/MyNameIsKar-Sekar">
+    <img src="https://cp-insights-three.vercel.app/api/profile?handle=MyNameIsKar-Sekar&theme=dark&heatmap=true&problemBarGraph=true" alt="Codeforces Activity" width="600" />
+  </a>
+</div>
+
+<br>
+
+### 📈 Grafik Rating Codeforces
+
+<div align="center">
+  <a href="https://codeforces.com/profile/MyNameIsKar-Sekar">
+    <img src="https://codeforces-readme-stats.vercel.app/api/graph?username=MyNameIsKar-Sekar&theme=nord" alt="Codeforces Rating Graph" width="600" />
+  </a>
 </div>
 
 <br>
