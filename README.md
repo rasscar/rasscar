@@ -47,8 +47,8 @@
 ### 📊 Statistik LeetCode
 
 <div align="center">
-  <a href="https://leetcode.com/u/UKl2ZHKA5E/">
-    <img src="https://leetcard.jacoblin.cool/UKl2ZHKA5E?theme=nord&font=baloo" alt="LeetCode Stats" width="500" />
+  <a href="https://leetcode.com/u/rasscar/">
+    <img src="https://leetcard.jacoblin.cool/rasscar?theme=nord&font=baloo" alt="LeetCode Stats" width="500" />
   </a>
 </div>
 
