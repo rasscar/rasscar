@@ -48,7 +48,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/rasscar/">
-    <img src="https://bulatkan.com/stat.php?tipe=leetcode" alt="LeetCode Stats" width="450" />
+    <img src="https://bulatkan.com/stat.php?tipe=leetcode&v=2" alt="LeetCode Stats" width="450" />
   </a>
 </div>
 
@@ -58,7 +58,7 @@
 
 <div align="center">
   <a href="https://codeforces.com/profile/MyNameIsKar-Sekar">
-    <img src="https://bulatkan.com/stat.php?tipe=codeforces" alt="Codeforces Stats" width="450" />
+    <img src="https://bulatkan.com/stat.php?tipe=codeforces&v=2" alt="Codeforces Stats" width="450" />
   </a>
 </div>
 
