@@ -52,7 +52,9 @@
 
 <br>
 ### 📊 Codeforces Stats
-[![Codeforces Stats](https://raw.github.com/IMRAN-8/Codeforces-stats-card/main/assets/codeforces-stats.svg?v=2&handle=MyNameIsKar-Sekar)](https://codeforces.com/profile/MyNameIsKar-Sekar)
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=MyNameIsKar-Sekar&theme=dark)](https://codeforces.com/profile/MyNameIsKar-Sekar)
+
 <div align="center">
   <i>"Keep it simple, keep it explicit."</i>
 </div>
