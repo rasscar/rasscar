@@ -18,6 +18,9 @@
   <a href="https://leetcode.com/u/UKl2ZHKA5E/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  <a href="https://codeforces.com/profile/MyNameIsKar-Sekar" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
 </p>
 
 </div>
@@ -31,24 +34,44 @@
 - 🧠 Sangat memperhatikan *edge cases* (penanganan batas eksplisit) dan alokasi memori yang terukur.
 - 📍 Berdomisili di Surabaya, Indonesia.
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" /> <!-- Opsional: hapus jika tidak pakai -->
 </div>
 
 <br>
 
-### 🧑‍💻 Statistik LeetCode
+### 📊 Statistik Kompetitif
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/UKl2ZHKA5E?theme=nord&font=baloo)](https://leetcode.com/u/UKl2ZHKA5E/)
+<div align="center">
 
-### 🏆 Statistik Codeforces
+**LeetCode**
+<br>
+<a href="https://leetcode.com/u/UKl2ZHKA5E/">
+  <img src="https://leetcard.jacoblin.cool/UKl2ZHKA5E?theme=nord&font=baloo" alt="LeetCode Stats" width="500" />
+</a>
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=MyNameIsKar-Sekar&theme=nord)](https://codeforces.com/profile/MyNameIsKar-Sekar)
+<br><br>
+
+**Codeforces**
+<br>
+<a href="https://codeforces.com/profile/MyNameIsKar-Sekar">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=MyNameIsKar-Sekar&theme=nord" alt="Codeforces Stats" width="500" />
+</a>
+
+<br>
+
+<a href="https://codeforces.com/profile/MyNameIsKar-Sekar">
+  <img src="https://codeforces-readme-stats.vercel.app/api/graph?username=MyNameIsKar-Sekar&theme=nord" alt="Codeforces Graph" width="500" />
+</a>
+
+</div>
+
+<br>
+
 <div align="center">
   <i>"Keep it simple, keep it explicit."</i>
 </div>
