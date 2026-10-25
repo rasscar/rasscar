@@ -64,21 +64,11 @@
 
 <br>
 
-### 🔥 Heatmap & Aktivitas Codeforces
-
-<div align="center">
-  <a href="https://codeforces.com/profile/MyNameIsKar-Sekar">
-    <img src="https://cp-insights-three.vercel.app/api/profile?handle=MyNameIsKar-Sekar&theme=dark&heatmap=true&problemBarGraph=true" alt="Codeforces Activity" width="600" />
-  </a>
-</div>
-
-<br>
-
 ### 📈 Grafik Rating Codeforces
 
 <div align="center">
   <a href="https://codeforces.com/profile/MyNameIsKar-Sekar">
-    <img src="https://codeforces-readme-stats.vercel.app/api/graph?username=MyNameIsKar-Sekar&theme=nord" alt="Codeforces Rating Graph" width="600" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/graph?username=MyNameIsKar-Sekar&theme=nord" alt="Codeforces Rating Graph" width="500" />
   </a>
 </div>
 
