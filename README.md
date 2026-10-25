@@ -64,16 +64,6 @@
 
 <br>
 
-### 📈 Grafik Rating Codeforces
-
-<div align="center">
-  <a href="https://codeforces.com/profile/MyNameIsKar-Sekar">
-    <img src="https://codeforces-readme-stats.vercel.app/api/graph?username=MyNameIsKar-Sekar&theme=nord" alt="Codeforces Rating Graph" width="500" />
-  </a>
-</div>
-
-<br>
-
 <div align="center">
   <i>"Keep it simple, keep it explicit."</i>
 </div>
