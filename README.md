@@ -12,6 +12,6 @@ Go Developer | Competitive Programming & Algorithmic Problem Solving
 🛠️ Tech Stack
 <div align="center"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </div> <br>
 📊 Statistik LeetCode
-<div align="center"> <a href="https://leetcode.com/u/rascsar/"> <img src="https://bulatkan.com/stat.php?tipe=leetcode" alt="LeetCode Stats" width="450" /> </a> </div> <br>
+<div align="center"> <a href="https://leetcode.com/u/rasscar/"> <img src="https://bulatkan.com/stat.php?tipe=leetcode" alt="LeetCode Stats" width="450" /> </a> </div> <br>
 🏆 Statistik Codeforces
 <div align="center"> <a href="https://codeforces.com/profile/MyNameIsKar-Sekar"> <img src="https://bulatkan.com/stat.php?tipe=codeforces" alt="Codeforces Stats" width="450" /> </a> </div> <br> <div align="center"> <i>"Keep it simple, keep it explicit."</i> </div>
