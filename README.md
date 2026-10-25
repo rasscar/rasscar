@@ -51,10 +51,9 @@
 </div>
 
 <br>
-### 📊 Codeforces Stats
+### 🏆 Codeforces Activity
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=MyNameIsKar-Sekar&theme=dark)](https://codeforces.com/profile/MyNameIsKar-Sekar)
-
+[![Codeforces Profile](https://cp-insights-three.vercel.app/api/profile?handle=MyNameIsKar-Sekar&theme=dark&heatmap=true&problemBarGraph=true)](https://codeforces.com/profile/MyNameIsKar-Sekar)
 <div align="center">
   <i>"Keep it simple, keep it explicit."</i>
 </div>
