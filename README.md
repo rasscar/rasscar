@@ -42,18 +42,13 @@
 
 <br>
 
-### 📊 Statistik LeetCode
+### 🧑‍💻 Statistik LeetCode
 
-<div align="center">
-  <a href="https://leetcode.com/u/UKl2ZHKA5E/">
-    <img src="https://leetcard.jacoblin.cool/UKl2ZHKA5E?theme=nord&font=baloo&ext=activity" alt="LeetCode Stats" width="600" />
-  </a>
-</div>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/UKl2ZHKA5E?theme=nord&font=baloo)](https://leetcode.com/u/UKl2ZHKA5E/)
 
-<br>
-### 🏆 Codeforces Activity
+### 🏆 Statistik Codeforces
 
-[![Codeforces Profile](https://cp-insights-three.vercel.app/api/profile?handle=MyNameIsKar-Sekar&theme=dark&heatmap=true&problemBarGraph=true)](https://codeforces.com/profile/MyNameIsKar-Sekar)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=MyNameIsKar-Sekar&theme=nord)](https://codeforces.com/profile/MyNameIsKar-Sekar)
 <div align="center">
   <i>"Keep it simple, keep it explicit."</i>
 </div>
