@@ -46,12 +46,12 @@
 
 ### 📊 Statistik LeetCode
 
+
 <div align="center">
-  <a href="https://leetcode.com/u/rasscar/">
-    <img src="https://leetcard.jacoblin.cool/rasscar?theme=nord&font=baloo" alt="LeetCode Stats" width="500" />
+  <a href="https://leetcode.com/u/rascsar/">
+    <img src="https://leetcard.jacoblin.cool/rascsar?theme=nord&font=baloo" alt="LeetCode Stats" width="500" />
   </a>
 </div>
-
 <br>
 
 ### 🏆 Statistik Codeforces
