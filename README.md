@@ -62,9 +62,16 @@
   </a>
 </div>
 <br>
+## 🧬 Statistik Rosalind
+
 <div align="center">
   <a href="https://rosalind.info/users/SekarSister/" target="_blank">
-    <img src="https://img.shields.io/badge/Rosalind_Solved-50-2E8B57?style=for-the-badge&logo=academia&logoColor=white" alt="Rosalind Stats" />
+    <img src="https://img.shields.io/badge/Rosalind-SekarSister-2E8B57?style=for-the-badge&logo=academia&logoColor=white" alt="Rosalind Profile" />
+  </a>
+  <br><br>
+  <a href="https://rosalind.info/users/SekarSister/" target="_blank">
+    <img src="https://img.shields.io/badge/Problems_Solved-50%2B-4CAF50?style=flat-square" alt="Rosalind Problems Solved" />
+    <img src="https://img.shields.io/badge/Focus-Bioinformatics-2196F3?style=flat-square" alt="Rosalind Focus" />
   </a>
 </div>
 <br>
