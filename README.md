@@ -43,6 +43,7 @@
 </div>
 
 <br>
+### 🏆 Statistik Codeforces
 ### 🧬 Statistik Rosalind
 
 <div align="center">
