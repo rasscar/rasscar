@@ -61,7 +61,12 @@
     <img src="https://bulatkan.com/stat.php?tipe=codeforces&v=2" alt="Codeforces Stats" width="450" />
   </a>
 </div>
-
+<br>
+<div align="center">
+  <a href="https://rosalind.info/users/SekarSister/" target="_blank">
+    <img src="https://img.shields.io/badge/Rosalind_Solved-50-2E8B57?style=for-the-badge&logo=academia&logoColor=white" alt="Rosalind Stats" />
+  </a>
+</div>
 <br>
 
 <div align="center">
