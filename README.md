@@ -62,7 +62,7 @@
   </a>
 </div>
 <br>
-## 🧬 Statistik Rosalind
+### 🧬 Statistik Rosalind
 
 <div align="center">
   <a href="https://rosalind.info/users/SekarSister/" target="_blank">
@@ -74,7 +74,6 @@
     <img src="https://img.shields.io/badge/Focus-Bioinformatics-2196F3?style=flat-square" alt="Rosalind Focus" />
   </a>
 </div>
-<br>
 
 <div align="center">
   <i>"Keep it simple, keep it explicit."</i>
